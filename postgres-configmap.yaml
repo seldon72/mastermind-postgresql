@@ -8,3 +8,4 @@ data:
   POSTGRES_DB: WORKSHOP
   POSTGRES_USER: postgres
   POSTGRES_PASSWORD: Aw3s0m3
+  PGDATA: /var/lib/postgresql/data/pgdata
